@@ -4,7 +4,7 @@ let rectWidth = 200;
 let rectHeight = 200;
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(600, 400);
   setInterval(changeColor, 2000); // Llamar a la función changeColor cada 2 segundos
 }
 
